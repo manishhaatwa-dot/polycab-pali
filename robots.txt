@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://polycab-distributor-pali.digiprofiles.in/sitemap.xml
