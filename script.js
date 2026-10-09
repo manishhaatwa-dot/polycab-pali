@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "manishhaatwa-dot";
 
     const GITHUB_REPO =
-        "Polycab-Profile";
+        "Polycab-pali";
 
     const GITHUB_BRANCH =
         "main";
